@@ -1,4 +1,4 @@
-# Adventure Works Power BI Dashboard
+# Adventure Works Power BI Dashboard.
 
 This project is a comprehensive Power BI report built using the popular Adventure Works dataset. It explores sales performance, customer insights, and 
 product trends — helping business users visualize key performance indicators across multiple dimensions.
